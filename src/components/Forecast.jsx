@@ -1,5 +1,4 @@
 import { iconFromUrl } from "../services/weatherService";
-
 function Forecast({ title, items }) {
   console.log(items);
   return (
